@@ -1,4 +1,5 @@
 🌿 Thrive Online – Health & Wellness Blog
+
 Overview
 Thrive Online is a professionally designed Health & Wellness blog created using WordPress installed via cPanel.
 The project covers niche selection, audience research, branding, SEO strategy, and responsive design, delivering a visually appealing and user-friendly platform for health-conscious readers.
